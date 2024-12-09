@@ -13,4 +13,4 @@
 ## Tools
 #### I performed my analysis using Python in Jupyter Notebooks. Algorithms I used for this analysis include Gradient Descent, K-Nearest Neighbor (KNN), Decision Trees, and Artificial Neural Network (ANN).
 ## Resources
-#### This project is part of my curriculum for the Career Foundry Data Analytics Bootcamp. The project brief for this independent study can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A6/Data_Immersion_A6_Project_Brief.pdf).
+#### This project is part of my curriculum for the Career Foundry Data Analytics Bootcamp. The project brief for this independent study can be found [here](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Project%20Briefs/Machine-Learning-with-Python-Achievement-1-Project%20Brief.pdf).
