@@ -1,9 +1,7 @@
 # ClimateWins Machine Learning Analysis
 
 ### ClimateWins is interested in using machine learning to help predict the consequences of climate change around Europe and, potentially, the world. This project includes determining which areas can use machine learning, looking at data that already includes answers so that machine learning can be trained to recognize similar answers (supervised learning), and communicating what was found and how it will affect ClimateWins’ strategy.
-### My final deliverable is a \href{file:///Users/sydneyjohnson/Documents/CF%20Data%20Analytics%20Course/11-2024%20ClimateWins%20Analysis/05%20Deliverables/ML1Pres.pdf}{Powerpoint Presentation}
-[Powerpoint Presentation](file:///Users/sydneyjohnson/Documents/CF%20Data%20Analytics%20Course/11-2024%20ClimateWins%20Analysis/05%20Deliverables/ML1Pres.pdf)
-
+### My final deliverable is a [Powerpoint Presentation](ML1pres.pdf)
 ## Objective
 #### Use machine learning to help predict the consequences of climate change for a European nonprofit organization.
 ## Data
